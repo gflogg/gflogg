@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gflogg
 - 👀 I’m interested in Tech and Video Games. FFXIV specifically along with a little DBD
-- 🌱 I’m currently learning Python 3 and reintegrating my self back into the world of IT. You'll find me working on the most basic skills of Python.
+- 🌱 I’m currently learning Powershell for O365 Administration as well as Javascript & React for Sharepoint.
 - 📫 You can reach me at my twitter via DM or just mention me. 
 
 <!---
